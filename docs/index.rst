@@ -1,9 +1,9 @@
-.. Nowcasting New Zealand GDP documentation master file, created by
+.. Nowcasting UK GDP with Faster Indicators documentation master file, created by
    sphinx-quickstart.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Nowcasting New Zealand GDP documentation!
+Nowcasting UK GDP with Faster Indicators documentation!
 ==============================================
 
 Contents:
